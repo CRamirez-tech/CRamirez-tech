@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristhian Ramirez</h1>
 <h3 align="center">A passionate frontend developer from Peru. I have a great knowledge of correcting errors of all kinds, I am a fan of that</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cramirez-tech&label=Profile%20views&color=0e75b6&style=flat-square" alt="cramirez-tech" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cramirez-tech&label=Profile%20views&color=0e75b6&style=flat-square" alt="cramirez-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cramirez-tech" alt="cramirez-tech" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cramirez-tech" alt="cramirez-tech" /></a> </p>
 
 - 🔭 I’m currently working on **Justo Juez School System**
 
