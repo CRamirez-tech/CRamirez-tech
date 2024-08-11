@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **custom CodeIgniter, Android**
 
-- 👯 I’m looking to collaborate on **a big project**
+- 👯 I’m looking to collaborate on **any interesting project**
 
 - 🤝 I’m looking for help with **Automation**
 
